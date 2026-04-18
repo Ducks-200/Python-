@@ -1,0 +1,22 @@
+print("Hello", name)
+
+name = "matome"
+age = 30
+
+print("Name:",name)
+print("Age:", age)
+print("adult")
+for i in range(3):
+    print("Number:", i)
+#name = input("matome")
+#age = int(input("enter your age: "))
+print("Hello", name)
+print("Access granted")
+for i in range(3):
+    print("welcome", name)
+
+#print("User name: matome") # Corrected syntax
+#print("User name email: matom@gmail.com") # Corrected syntax
+
+#print("Message:", message) # Removed extra colon
+#print("My project:", name) # Assumed 'matome' referred to the 'name' variable
